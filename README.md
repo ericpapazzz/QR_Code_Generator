@@ -1,0 +1,1 @@
+Generador de códigos QR simple y efectivo, desarrollado con HTML, CSS y JavaScript. Permite a los usuarios crear códigos QR a partir de texto personalizado o enlaces, ajustando el tamaño del código QR según sus preferencias. Utiliza la librería QRCode.js para la generación del código QR.
